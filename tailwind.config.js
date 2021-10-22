@@ -18,8 +18,9 @@ module.exports = {
             '8': '8px',
         },
         extend: {
-
-
+            backgroundImage: {
+                'hero': "url('~/assets/images/bg-image.jpg')"
+            }
         },
     },
     variants: {
